@@ -97,3 +97,12 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt
 # =============================================================================
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
+# =============================================================================
+# https://github.com/d43m0nhLInt3r/socialblocklists
+# =============================================================================
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Youtube/youtubeADBlocklist
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Youtube/youtubeblocklist.txt
+# =============================================================================
+# https://github.com/tdgomes/Ads-Youtube-PT
+# =============================================================================
+https://raw.githubusercontent.com/tdgomes/Ads-Youtube-PT/master/youtubeads.txt
